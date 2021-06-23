@@ -1,0 +1,23 @@
+h1{
+  color: blue;
+}
+h2{
+  color: red;
+}
+h3{
+  color: blueviolet;
+}
+
+body {
+  margin: 20px;
+  color: #333
+}
+
+  .syasin img {
+    border-radius: 50%;
+    margin-top: 0px;
+  }
+
+  .iconcon img{
+    border-radius: 50%;
+  }
