@@ -21,7 +21,6 @@ body {
   .iconcon img {
     border-radius: 50%;
   }
-
-  .aii img {
-    border-radius: 10%;
-  }
+.aii img{
+  border-radius: 50%;
+}
