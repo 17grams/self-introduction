@@ -13,15 +13,17 @@ body {
   color: #333
 }
 
-  .syasin img {
-    border-radius: 50%;
-    margin-top: 0px;
-  }
+.syasin img {
+  border-radius: 50%;
+  margin-top: 0px;
+}
 
-  .iconcon img {
-    border-radius: 50%;
-  }
+.iconcon img {
+  border-radius: 50%;
+}
 
-.aii img{
-  border-redius: 10%;
+.aii
+img{
+  border-radius: 10%;
+  margin-left: 20px;
 }
