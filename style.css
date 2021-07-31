@@ -18,6 +18,10 @@ body {
     margin-top: 0px;
   }
 
-  .iconcon img{
+  .iconcon img {
     border-radius: 50%;
+  }
+
+  .aii img {
+    border-radius: 10%;
   }
